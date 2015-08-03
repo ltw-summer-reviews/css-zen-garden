@@ -2,7 +2,7 @@
 
 A summer review project to practice making website layouts.
 
-#### [⬇ View the project](http://www.csszengarden.com/)
+#### [➡︎ View the project](http://www.csszengarden.com/)
 
 ---
 
