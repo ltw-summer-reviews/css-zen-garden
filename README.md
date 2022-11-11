@@ -47,12 +47,12 @@ For this assignment concentrate on making a small screen layout for CSS Zen Gard
 
 *This exercise is meant to cover all material from the term, but these may be extra helpful.*
 
-- [Before & after pseudo elements](http://learn-the-web.algonquindesign.ca/topics/before-after/)
-- [CSS selectors & units cheat sheet](http://learn-the-web.algonquindesign.ca/topics/css-selectors-units-cheat-sheet/)
-- [Web typography cheat sheet](http://learn-the-web.algonquindesign.ca/topics/web-typography-cheat-sheet/)
-- [CSS layout cheatsheet](http://learn-the-web.algonquindesign.ca/topics/css-layout-cheat-sheet/)
-- [From wireframe to website](http://learn-the-web.algonquindesign.ca/topics/from-wireframe-to-website/)
-- [Launch checklist, Web Dev 1](http://learn-the-web.algonquindesign.ca/topics/launch-checklist-web-dev-1/)
+- [Before & after pseudo elements](https://learntheweb.coures/topics/before-after/)
+- [CSS selectors & units cheat sheet](https://learntheweb.coures/topics/css-selectors-units-cheat-sheet/)
+- [Web typography cheat sheet](https://learntheweb.coures/topics/web-typography-cheat-sheet/)
+- [CSS layout cheatsheet](https://learntheweb.coures/topics/css-layout-cheat-sheet/)
+- [From wireframe to website](https://learntheweb.coures/topics/from-wireframe-to-website/)
+- [Launch checklist, Web Dev 1](https://learntheweb.coures/topics/launch-checklist-web-dev-1/)
 
 ---
 
@@ -65,4 +65,4 @@ For this assignment concentrate on making a small screen layout for CSS Zen Gard
 
 ## Licenses & copyrights
 
-**[☛ Refer the the license & copyright statement](https://github.com/acgd-summer-reviews/meta#license--copyright-statement)**
+**[☛ Refer the the license & copyright statement](https://github.com/ltw-summer-reviews/meta#license--copyright-statement)**
